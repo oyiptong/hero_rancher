@@ -1,0 +1,17 @@
+*.pyc
+*.rdb
+.*.swp
+.*.swo
+*.log
+*.egg-info
+.coverage
+hero-rancher-env
+.idea/
+build/
+dist/
+logs/
+cover/
+temp/
+tmp/
+MANIFEST
+node_modules/
